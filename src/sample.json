@@ -1,0 +1,165 @@
+[{
+    "name": "ZARA GREENE",
+    "emailId":"zaragreen@email.com",
+    "yearsOfExperience": 10,
+    "jobTitle": "SOFTWARE ENGINEERING MANAGER",
+    "skills": [
+        {
+            "name": "MySQL",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Git",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Docker",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "React",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Java",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "system monitoring",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "version control",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "interface design",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "IT support",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "remote desktop",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Eclipse",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "collaboration",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Jenkins",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "data storage",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "best practices",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "server",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "migration",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "legacy systems",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "technology",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "system performance",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "data management and analysis",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "knowledge base",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "Amazon Web Services (AWS)",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "productivity",
+            "proficiencyLevel": 0
+        },
+        {
+            "name": "js",
+            "proficiencyLevel": 0
+        }
+    ],
+    "experience": [
+        {
+            "_id": "0da9b6cb-1c00-4a78-8238-9045ee1a86a0",
+            "jobTitle": "SOFTWARE ENGINEERING MANAGER",
+            "company": "Google LLC",
+            "location": {
+                "id": "",
+                "city": "Mountain View South",
+                "country": {
+                    "countrycode": "US",
+                    "countryname": "United States"
+                },
+                "state": {
+                    "statecode": "CA",
+                    "statename": "California"
+                }
+            },
+            "startDate": "2019-05-31T00:00:00.000Z",
+            "endDate": "2023-04-30T00:00:00.000Z"
+        },
+        {
+            "_id": "4a352e79-c8a5-448d-87e1-e89a41fb5a02",
+            "jobTitle": "Systems Analyst",
+            "company": "IBM",
+            "startDate": "2015-10-31T00:00:00.000Z",
+            "endDate": "2019-04-30T00:00:00.000Z"
+        },
+        {
+            "_id": "5438992f-9372-47b7-be1e-ee7a2fa265f0",
+            "jobTitle": "IT Support Technician",
+            "company": "PNC Financial Services Group",
+            "startDate": "2012-09-30T00:00:00.000Z",
+            "endDate": "2015-09-30T00:00:00.000Z"
+        }
+    ],
+    "education": [
+        {
+            "_id": "68dcc8b2-9870-4453-928c-2ddb2d0ada04",
+            "institution": "Stanford University",
+            "startDate": "2010-07-31T00:00:00.000Z",
+            "endDate": "2012-07-31T00:00:00.000Z",
+            "majors": [
+                {
+                    "key": "74650b25-4319-465a-ac18-5ca25fa5d688",
+                    "major": "",
+                    "degree": "Theory or Software Systems",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "emailIds": [
+        {
+            "email": "zaragreen@email.com",
+            "type": "Personal"
+        }
+    ]
+}]
