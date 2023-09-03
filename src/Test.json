@@ -1,5 +1,6 @@
 [
     {
-        "sample":"Test File text"
+        "sample":"Test File text",
+        "another one":"This is another text"
     }
 ]
