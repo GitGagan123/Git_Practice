@@ -107,6 +107,5 @@ const App = () => {
       {/* <LazyLoaderFlag/> */}
     </>
   );
-}
-
+};
 export default App;
