@@ -12,7 +12,7 @@ class ErrorBoundary extends React.Component {
 
   render() {
     if (this.state.hasError) {
-      return <div>An Axios error occurred.{this.state.hasError.message}</div>; // Customize the error message as needed
+      return <div>An Axios error occurr{this.state.hasError.message}</div>; // Customize the error message as needed
     }
     return this.props.children;
   }
